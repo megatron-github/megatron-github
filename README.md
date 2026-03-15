@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=megatron-github&label=Profile%20views&color=0e75b6&style=flat" alt="megatron-github" /> </p>
 
-- 🔭 I’m currently working on [Ericsson's latest Automated Acceptance Test (AAT) system](https://www.ericsson.com/en/blog/2022/11/why-automation-is-driving-cost-savings-and-enabling-robust-signaling)
+- 🔭 I’m currently working on [Herond Agentic Browser for Web3](https://herond.org/)
 
-- 🌱 I’m currently learning **Kubernetes and something about Database**
+- 🌱 I’m currently learning **Kubernetes, Service Monitoring, IaC, and something about Database**
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/megatron-github) page.
 
-- 💬 Ask me about **Python, R, Jenkins, Football, Swim, and Guitar**
+- 💬 Ask me about **Python, R, GitHub Actions, Football, Swimming, and Guitar**
 
 - 📫 How to reach me **truong.mphm@gmail.com**
 
